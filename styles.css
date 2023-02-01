@@ -11,10 +11,15 @@ h1 {
   font-size: 20px;
   text-align: center;
   margin: 8px;
+  background-color:black;
+  flex: 1;
+  height: 40px;
 
 }
 
 .recipes.list {
   list-style: none;
+  display: flex;
+
 
 }
